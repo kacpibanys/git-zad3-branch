@@ -6,3 +6,4 @@ Autor: <Twoje imię>
 Funkcje:
 - dodawanie zadań
 - usuwanie zadań
+- kategorie zadan
