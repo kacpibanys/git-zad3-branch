@@ -1,8 +1,9 @@
 === Aplikacja TODO ===
 
-Wersja: 1.0
+Wersja: 1.1
 Autor: <Twoje imię>
 
 Funkcje:
 - dodawanie zadań
 - usuwanie zadań
+- edycja zadań
